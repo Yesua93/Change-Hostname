@@ -1,3 +1,12 @@
+<#PSScriptInfo
+.VERSION 1.1
+.AUTHOR Yesua Menchón
+.COPYRIGHT
+.RELEASENOTES
+Version 1.0: Initial version.
+.PRIVATEDATA
+#>
+
 Param()
 
 
