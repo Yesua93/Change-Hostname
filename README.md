@@ -2,7 +2,7 @@
 Script to remotely rename computers in a hybrid environment (Intune)
 
 ¡¡¡IMPORTANT!!!
-In order to use this script, you must delegate the permission to add and change objects to the OU where the equipment is to be used.
+In order to use this script, you must delegate the permission for "SELF" to add and change objects to the OU where the equipment is to be used.
 
 To deploy to Intune, make a Win32 app package and deploy as System.
 
